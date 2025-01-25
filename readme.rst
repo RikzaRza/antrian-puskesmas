@@ -1,4 +1,12 @@
 ###################
+Login Admin
+###################
+
+username : admin
+
+password : admin
+
+###################
 What is CodeIgniter
 ###################
 
